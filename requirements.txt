@@ -1,0 +1,10 @@
+numpy
+matplotlib
+tabulate
+Pillow
+imageio
+torch
+torchvision
+geopandas
+pygeos
+shapely
